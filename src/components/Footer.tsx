@@ -5,7 +5,7 @@ export default function Footer() {
       Made with {`<3`} by{" "}
       <a
         className="text-pink-200"
-        href="https://github.com/asrvd"
+        href="https://discord.gg/nafi"
         target={"_blank"}
         rel="noreferrer"
       >
