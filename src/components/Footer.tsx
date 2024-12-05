@@ -9,12 +9,12 @@ export default function Footer() {
         target={"_blank"}
         rel="noreferrer"
       >
-        Ashish
+        Nafi
       </a>
       {" // "}
       <a
         className="text-pink-200"
-        href="https://github.com/asrvd/lyrist"
+        href="https://notgiving.com"
         target={"_blank"}
         rel="noreferrer"
       >
@@ -23,7 +23,7 @@ export default function Footer() {
       <a
         rel="noopener noreferrer"
         target="_blank"
-        href="https://vercel.com/?utm_source=asheeeshh&utm_campaign=oss"
+        href="https://vercel.com"
       >
         <img
           height="34px"
